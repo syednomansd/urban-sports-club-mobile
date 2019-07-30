@@ -6,7 +6,7 @@ Frontend Developer - Coding Challenge | Urban Sports Club 0.1.0 - React, React N
 ## Quick start
 
 1.  Make sure that you have expo install globally and Node v8 or above installed.
-2.  Clone this repo using `git clone git@gitlab.com:syednomansd/urban-sports-club-mobile.git`
+2.  Clone this repo using `git clone https://github.com/syednomansd/urban-sports-club-mobile.git`
 3.  Move to the appropriate directory: `cd urban-sports-club-mobile`
 4.  Run `npm install` in order to install dependencies.
 
