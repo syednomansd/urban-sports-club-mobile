@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "commonjs",
+    "types": ["jest", "node"],
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "noImplicitAny": true,
+    "target": "es5"
+  }
+}
